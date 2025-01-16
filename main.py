@@ -1,8 +1,3 @@
-""" Emily Chae
-    ITP-449
-    Assignment number
-    Description
-"""
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
